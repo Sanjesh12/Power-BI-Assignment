@@ -1,7 +1,7 @@
 # Power-BI-Assignment
 Hello everyone, I'm Sanjesh Chourasia. Currently, I am learning  PowerBI. You can find my PowerBI assignments and solutions here. 
 
-1. PowerBI Assignment 1 - https://github.com/Sanjesh12/Power-BI-Assignment/tree/main/Assignment%201
+1. (PowerBI Assignment 1)[https://github.com/Sanjesh12/Power-BI-Assignment/tree/main/Assignment%201]
 2. PowerBI Assignment 2 - https://github.com/Sanjesh12/Power-BI-Assignment/tree/main/Assignment%202
 3. PowerBI Assignment 3 - https://github.com/Sanjesh12/Power-BI-Assignment/tree/main/Assignment%203
 4. PowerBI Assignment 4 - https://github.com/Sanjesh12/Power-BI-Assignment/tree/main/Assignment%204
